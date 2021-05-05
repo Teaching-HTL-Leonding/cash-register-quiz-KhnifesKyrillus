@@ -47,7 +47,7 @@ namespace CashRegister.UI
 
         public decimal TotalSum => Basket.Sum(rl => rl.TotalPrice);
 
-        public event PropertyChangedEventHandler PropertyChanged;
+        public event PropertyChangedEventHandler? PropertyChanged;
 
         private void OnAddProduct(object sender, RoutedEventArgs e)
         {
