@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegister.WebApi", "CashRegister.WebApi\CashRegister.WebApi.csproj", "{767EEF2F-9346-4BF1-9BC8-6281C2B7182E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegister.UI", "CashRegister.UI\CashRegister.UI.csproj", "{52146E9D-CE79-4172-9B83-2E538FFB8731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegister.SharedResources", "CashRegister.SharedResources\CashRegister.SharedResources.csproj", "{419A0EFF-E9D7-458F-993C-B00794D8C1B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767EEF2F-9346-4BF1-9BC8-6281C2B7182E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767EEF2F-9346-4BF1-9BC8-6281C2B7182E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767EEF2F-9346-4BF1-9BC8-6281C2B7182E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767EEF2F-9346-4BF1-9BC8-6281C2B7182E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52146E9D-CE79-4172-9B83-2E538FFB8731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52146E9D-CE79-4172-9B83-2E538FFB8731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52146E9D-CE79-4172-9B83-2E538FFB8731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52146E9D-CE79-4172-9B83-2E538FFB8731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419A0EFF-E9D7-458F-993C-B00794D8C1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419A0EFF-E9D7-458F-993C-B00794D8C1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419A0EFF-E9D7-458F-993C-B00794D8C1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419A0EFF-E9D7-458F-993C-B00794D8C1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
